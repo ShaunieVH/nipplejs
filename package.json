@@ -51,7 +51,6 @@
     "expect.js": "0.3.1",
     "markdown-toc": "1.2.0",
     "mocha": "5.2.0",
-    "phantomjs-prebuilt": "2.1.16",
     "webpack": "4.39.2",
     "webpack-cli": "3.3.7",
     "webpack-dev-server": "3.8.0"
